@@ -108,7 +108,7 @@ Forest-Fire-Prediction-ML/
 │
 ├── Algerian_Forest_Data1.csv
 ├── Algerian_Forest_data.ipynb
-├── XGB_RF_SVM_Final.py
+├── algerian_forest_data.py
 ├── README.md
 │
 └── model_comparison_results.csv
