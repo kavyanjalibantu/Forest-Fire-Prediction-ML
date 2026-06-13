@@ -152,6 +152,6 @@ The project compares the performance of XGBoost, Random Forest, and Support Vect
 
 ## Author
 
-***Bantu Kavyanjali**
+**Bantu Kavyanjali**
 
 Machine Learning Project – Forest Fire Prediction and Classification
